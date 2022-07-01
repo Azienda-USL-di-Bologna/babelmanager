@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/babelmanager">
+    <Resource auth="Container" driverClassName="org.postgresql.Driver" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/SVdb" password="siamofreschi" type="javax.sql.DataSource" url="jdbc:postgresql://gdml:5432/argo" username="sv" validationQuery="select 1"/>
+</Context>
